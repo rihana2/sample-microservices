@@ -1,1 +1,1 @@
-# sample-microservices1
+# sample-microservice
